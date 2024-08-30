@@ -1,6 +1,6 @@
 ## IDE: PyCharm
 ## Steps:
-* Create a new project in PyCharm with python 3.7 and a new virtual environment
+* Create a new project in PyCharm with python 3.7 and a new virtual environment (.idea and venv folder will be automatically created)
 * Install just once in terminal with venv:
 1. pip install flask
 2. pip install numpy
