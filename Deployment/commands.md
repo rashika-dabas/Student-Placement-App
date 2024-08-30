@@ -15,4 +15,4 @@
 3. heroku git:remote -a student-placement-predictor (Create new app student-placement-predictor on Heroku platform first)
 4. git add .
 5. git commit -am "deploying student placement app"
-6. git push heroku main
+6. git push heroku master
