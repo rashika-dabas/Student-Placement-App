@@ -8,3 +8,7 @@ Design a student-friendly mobile app to predict his/her chances of securing a pl
 - Built a Flask app and used it to test URL requests with the help of Postman software
 - Integrated the app results to execute a mobile-friendly app via JavaScript and XML in Android Studio
 ### Result: Deployed the Flask app on Heroku and generated student placement results focusing on CGPA through a mobile app
+## Tools
+* Python
+* PyCharm
+* Android Studio
