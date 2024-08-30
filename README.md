@@ -1,4 +1,5 @@
 # Student-Placement-App
+## App Link:
 ## Task
 Design a student-friendly mobile app to predict his/her chances of securing a placement/job
 ## Synopsis
