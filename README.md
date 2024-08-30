@@ -7,4 +7,4 @@ Design a student-friendly mobile app to predict his/her chances of securing a pl
 - Interpreted placement data of 300 students to save the model as a PKL file considering Random Forest Classifier
 - Built a Flask app and used it to test URL requests with the help of Postman software
 - Integrated the app results to execute a mobile-friendly app via JavaScript and XML in Android Studio
-### Result: Deployed the Flask app on Heroku and generated student placement results focusing on CGPA on a mobile app
+### Result: Deployed the Flask app on Heroku and generated student placement results focusing on CGPA through a mobile app
