@@ -4,7 +4,7 @@
 * Install just once in terminal with venv:
 1. pip install flask
 2. pip install numpy
-3. pip install sklearn
+3. pip install scikit-learn
 * To run the app in terminal with venv, use the command python app.py or play button at top
 * Test API responses via Postman software
 * For errors, stop & rerun the app and then repeat the command
