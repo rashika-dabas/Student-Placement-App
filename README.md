@@ -1,5 +1,5 @@
 # Student-Placement-App
-## App Link:
+## App Link: https://student-placement-predictor-eaedabffa002.herokuapp.com/
 ## Task
 Design a student-friendly mobile app to predict his/her chances of securing a placement/job
 ## Synopsis
