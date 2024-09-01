@@ -1,7 +1,7 @@
 # Deployment
 ## IDE: PyCharm
 ## Steps:
-* Create a new project in PyCharm with python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
+* Create a new project in PyCharm with Python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
 * Install just once in terminal having (venv):
 1. pip install flask
 2. pip install numpy
@@ -12,7 +12,7 @@
 * Test API responses via Postman software.
 * For errors, stop & rerun the app and then repeat the checking step.
 * Deploying Dashboard (App) on Heroku:
-1. Open PyCharm and create a project with venv
+1. Open PyCharm and create a project with venv (Python 3.10)
 2. Install all the above packages in terminal (Check in app.py for errors to make sure all done)
 3. Run and stop app locally to check that app is working (Add debug=True also before running)
 4. Install gunicorn web server to serve application (Never use Flask's development server in production) -> pip install gunicorn
