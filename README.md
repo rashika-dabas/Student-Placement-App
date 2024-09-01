@@ -13,4 +13,5 @@ Design a student-friendly mobile app to predict his/her chances of securing a pl
 * Python
 * PyCharm
 * Git
+* Heroku
 * Android Studio (JavaScript and XML)
